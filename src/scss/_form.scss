@@ -1,0 +1,10 @@
+.form-control {
+   font-size: 14px;
+
+   &::placeholder {
+      color: rgba(0, 0, 0, 0.5);
+      font-size: 14px;
+      font-weight: 400;
+      line-height: normal;
+   }
+}

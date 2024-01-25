@@ -1,0 +1,15 @@
+.offcanvas {
+   &.offcanvas-start {
+      width: 312px;
+   }
+
+   .offcanvas-header {
+      height: 70px;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+   }
+
+   .offcanvas-title {
+      font-size: 18px;
+      font-weight: 700;
+   }
+}
